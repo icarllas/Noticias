@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #ff9400;
+    background-color: #48bfff;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -8,14 +8,21 @@
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+    
 }
 
 .content {
     margin-left: 40px;
+    background-color: #e2e7ed;
+}
+
+body{
+    background-color: #e2e7ed;
+
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Fjalla One', sans-serif;
 }
 
 .date {
